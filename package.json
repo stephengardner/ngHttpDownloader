@@ -1,0 +1,23 @@
+{
+  "name": "ng-http-downloader",
+  "version": "1.0.0",
+  "description": "AngularJS In-place downloading of files returned by an API call",
+  "main": "http-downloader.module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephengardner/ngHttpDownloader.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "downloader"
+  ],
+  "author": "Stephen Gardner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephengardner/ngHttpDownloader/issues"
+  },
+  "homepage": "https://github.com/stephengardner/ngHttpDownloader#readme"
+}
