@@ -2,6 +2,8 @@
 ### A simple AngularJS Service to Download files returned by an $http call.
 
 ---
+#### download
+`npm i ng-http-downloader`
 #### params:
 The same parameters as AngualrJS's $http, with two added parameters.
 
